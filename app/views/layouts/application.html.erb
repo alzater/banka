@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <title>Ban</title>
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+	<div id="header">
+		<div>Медвежий угол</div>
+		<div><%=link_to "Главная", "/" %></div>
+		<div><%=link_to "О нас", "/info" %></div>
+		<div><%=link_to "Контакты", "/contacts" %></div>
+		<div><%=link_to "Фотогалерея", "/photos" %></div>
+		<button onclick="inst.open();">Заказать</button>
+	</div>
+	<div id="content">
+		<%= yield %>
+	</div>
+	<div id="footer">
+		&copy; 2015 "Медвежий угол", <%= link_to "Разработчики", "/developers" %> <br />
+		Полное или частичное копирование материалов сайта запрещено.
+	</div>
+	<div data-remodal-id="order">
+		<div class="form-group">
+			<label>Ваше имя:</label>
+			<br />
+			<input class="form-control" name="name" type="text" class="order_input"></input>
+		</div>
+		<div class="form-group">
+			<label>Ваш телефон:</label>
+			<br />
+			<input class="form-control" name="phone" type="text" class="order_input"></input>
+		</div>
+		<div class="form-group">
+			<label>Ваше сообщение:</label>
+			<br />
+			<textarea class="form-control" rows="5" id="order_text"></textarea>
+		</div>
+	</div>
+	<script>
+		inst = $('[data-remodal-id=order]').remodal();
+	</script>
+</body>
+</html>
