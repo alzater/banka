@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
 <head>
-  <title>Ban</title>
+  <title>Медвежий угол</title>
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
@@ -13,7 +13,7 @@
 		<div><%=link_to "О нас", "/info" %></div>
 		<div><%=link_to "Контакты", "/contacts" %></div>
 		<div><%=link_to "Фотогалерея", "/photos" %></div>
-		<button onclick="inst.open();">Заказать</button>
+		<button onclick="show_order_form();">Заказать</button>
 	</div>
 	<div id="content">
 		<%= yield %>
@@ -26,18 +26,20 @@
 		<div class="form-group">
 			<label>Ваше имя:</label>
 			<br />
-			<input class="form-control" name="name" type="text" class="order_input"></input>
+			<input class="form-control" id="order_name" type="text" class="order_input"></input>
 		</div>
 		<div class="form-group">
 			<label>Ваш телефон:</label>
 			<br />
-			<input class="form-control" name="phone" type="text" class="order_input"></input>
+			<input class="form-control" id="order_phone" type="text" class="order_input"></input>
 		</div>
 		<div class="form-group">
 			<label>Ваше сообщение:</label>
 			<br />
 			<textarea class="form-control" rows="5" id="order_text"></textarea>
 		</div>
+		<button type="button" class="btn btn-info" onclick="send_order();">Отправить</button>
+		<p id="order_result" class="bg-info"></p>
 	</div>
 	<script>
 		inst = $('[data-remodal-id=order]').remodal();

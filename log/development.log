@@ -10716,3 +10716,3179 @@ Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-06 01:36:12
 
 
 Started GET "/assets/zepto.min.js?body=1" for 127.0.0.1 at 2015-02-06 01:36:12 +0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-06 18:03:08 +0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by StaticController#index as HTML
+  Rendered static/index.html.slim within layouts/application (45.7ms)
+Completed 200 OK in 499ms (Views: 491.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.remodal.css?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/jquery.remodal.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/order.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/zepto.min.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 18:03:09 +0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+Processing by StaticController#index as HTML
+  Rendered static/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 181ms (Views: 180.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.remodal.css?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/jquery.remodal.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/order.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/zepto.min.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-06 18:17:46 +0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+Processing by StaticController#index as HTML
+  Rendered static/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 187ms (Views: 186.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.remodal.css?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/jquery.remodal.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/order.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/zepto.min.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-06 18:22:47 +0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-06 18:49:16 +0300
+Processing by StaticController#index as HTML
+  Rendered static/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 277ms (Views: 276.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.remodal.css?body=1" for 127.0.0.1 at 2015-02-06 18:49:16 +0300
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-02-06 18:49:16 +0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:16 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:16 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-06 18:49:16 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:16 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:16 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:16 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:16 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:16 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:16 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:16 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:16 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:16 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:16 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:16 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:16 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:16 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:16 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:16 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:16 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:16 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:16 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:16 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:16 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:17 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:17 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:17 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:17 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:17 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:17 +0300
+
+
+Started GET "/assets/jquery.remodal.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:17 +0300
+
+
+Started GET "/assets/order.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:17 +0300
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:17 +0300
+
+
+Started GET "/assets/zepto.min.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:17 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-06 18:49:17 +0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+Processing by StaticController#index as HTML
+  Rendered static/index.html.slim within layouts/application (0.1ms)
+Completed 200 OK in 184ms (Views: 183.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.remodal.css?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/jquery.remodal.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/order.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/zepto.min.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-06 18:50:04 +0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-06 18:51:45 +0300
+Processing by StaticController#index as HTML
+  Rendered static/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 301ms (Views: 300.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.remodal.css?body=1" for 127.0.0.1 at 2015-02-06 18:51:45 +0300
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-02-06 18:51:45 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-06 18:51:45 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:45 +0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:45 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:45 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:45 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:45 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:45 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:45 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:45 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:45 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:45 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:45 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:45 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:45 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:45 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:45 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:45 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:45 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:45 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:45 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:45 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:45 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:45 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:46 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:46 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:46 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:46 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:46 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:46 +0300
+
+
+Started GET "/assets/jquery.remodal.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:46 +0300
+
+
+Started GET "/assets/order.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:46 +0300
+
+
+Started GET "/assets/zepto.min.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:46 +0300
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:46 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-06 18:51:46 +0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-06 18:57:12 +0300
+Processing by StaticController#index as HTML
+  Rendered static/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 221ms (Views: 220.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.remodal.css?body=1" for 127.0.0.1 at 2015-02-06 18:57:12 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:12 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:12 +0300
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-02-06 18:57:12 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-06 18:57:12 +0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:12 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:12 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:12 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:12 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:12 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:12 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:12 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:12 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:12 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:12 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:13 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:13 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:13 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:13 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:13 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:13 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:13 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:13 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:13 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:13 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:13 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:13 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:13 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:13 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:13 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:13 +0300
+
+
+Started GET "/assets/order.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:13 +0300
+
+
+Started GET "/assets/jquery.remodal.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:13 +0300
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:13 +0300
+
+
+Started GET "/assets/zepto.min.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:13 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-06 18:57:13 +0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+Processing by StaticController#index as HTML
+  Rendered static/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 181ms (Views: 179.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.remodal.css?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/jquery.remodal.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/order.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/zepto.min.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-06 18:58:32 +0300
+
+
+Started GET "/assets/jquery.remodal.css?body=1" for 127.0.0.1 at 2015-02-06 18:58:38 +0300
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-02-06 18:58:38 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-06 18:58:38 +0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-06 18:59:06 +0300
+Processing by StaticController#index as HTML
+  Rendered static/index.html.slim within layouts/application (0.1ms)
+Completed 200 OK in 281ms (Views: 280.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.remodal.css?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/jquery.remodal.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/order.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/zepto.min.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2015-02-06 18:59:07 +0300
+
+
+Started POST "/order/new" for 127.0.0.1 at 2015-02-06 18:59:18 +0300
+Processing by OrderController#new as */*
+  Parameters: {"name"=>"dsfgs", "phone"=>"dsfg", "text"=>"sdfg"}
+Completed 500 Internal Server Error in 72ms
+
+ActionView::MissingTemplate (Missing template order/new, application/new with {:locale=>[:en], :formats=>[:html, :text, :js, :css, :ics, :csv, :vcf, :png, :jpeg, :gif, :bmp, :tiff, :mpeg, :xml, :rss, :atom, :yaml, :multipart_form, :url_encoded_form, :json, :pdf, :zip], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :slim, :coffee, :arb, :jbuilder]}. Searched in:
+  * "/home/alzater/ruby-projects/banka/app/views"
+  * "/var/lib/gems/1.9.1/gems/devise-3.4.1/app/views"
+  * "/home/alzater/.bundler/ruby/1.9.1/activeadmin-76f194ebe333/app/views"
+  * "/var/lib/gems/1.9.1/gems/kaminari-0.16.2/app/views"
+):
+  actionview (4.1.5) lib/action_view/path_set.rb:46:in `find'
+  actionview (4.1.5) lib/action_view/lookup_context.rb:124:in `find'
+  actionview (4.1.5) lib/action_view/renderer/abstract_renderer.rb:18:in `find_template'
+  actionview (4.1.5) lib/action_view/renderer/template_renderer.rb:41:in `determine_template'
+  actionview (4.1.5) lib/action_view/renderer/template_renderer.rb:8:in `render'
+  actionview (4.1.5) lib/action_view/renderer/renderer.rb:42:in `render_template'
+  actionview (4.1.5) lib/action_view/renderer/renderer.rb:23:in `render'
+  actionview (4.1.5) lib/action_view/rendering.rb:99:in `_render_template'
+  actionpack (4.1.5) lib/action_controller/metal/streaming.rb:217:in `_render_template'
+  actionview (4.1.5) lib/action_view/rendering.rb:82:in `render_to_body'
+  actionpack (4.1.5) lib/action_controller/metal/rendering.rb:32:in `render_to_body'
+  actionpack (4.1.5) lib/action_controller/metal/renderers.rb:32:in `render_to_body'
+  actionpack (4.1.5) lib/abstract_controller/rendering.rb:25:in `render'
+  actionpack (4.1.5) lib/action_controller/metal/rendering.rb:16:in `render'
+  actionpack (4.1.5) lib/action_controller/metal/instrumentation.rb:41:in `block (2 levels) in render'
+  activesupport (4.1.5) lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+  /usr/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
+  activesupport (4.1.5) lib/active_support/core_ext/benchmark.rb:12:in `ms'
+  actionpack (4.1.5) lib/action_controller/metal/instrumentation.rb:41:in `block in render'
+  actionpack (4.1.5) lib/action_controller/metal/instrumentation.rb:84:in `cleanup_view_runtime'
+  activerecord (4.1.5) lib/active_record/railties/controller_runtime.rb:25:in `cleanup_view_runtime'
+  actionpack (4.1.5) lib/action_controller/metal/instrumentation.rb:40:in `render'
+  actionpack (4.1.5) lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  actionpack (4.1.5) lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  actionpack (4.1.5) lib/abstract_controller/base.rb:189:in `process_action'
+  actionpack (4.1.5) lib/action_controller/metal/rendering.rb:10:in `process_action'
+  actionpack (4.1.5) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+  activesupport (4.1.5) lib/active_support/callbacks.rb:113:in `call'
+  activesupport (4.1.5) lib/active_support/callbacks.rb:113:in `call'
+  activesupport (4.1.5) lib/active_support/callbacks.rb:229:in `block in halting'
+  activesupport (4.1.5) lib/active_support/callbacks.rb:229:in `call'
+  activesupport (4.1.5) lib/active_support/callbacks.rb:229:in `block in halting'
+  activesupport (4.1.5) lib/active_support/callbacks.rb:166:in `call'
+  activesupport (4.1.5) lib/active_support/callbacks.rb:166:in `block in halting'
+  activesupport (4.1.5) lib/active_support/callbacks.rb:166:in `call'
+  activesupport (4.1.5) lib/active_support/callbacks.rb:166:in `block in halting'
+  activesupport (4.1.5) lib/active_support/callbacks.rb:166:in `call'
+  activesupport (4.1.5) lib/active_support/callbacks.rb:166:in `block in halting'
+  activesupport (4.1.5) lib/active_support/callbacks.rb:86:in `call'
+  activesupport (4.1.5) lib/active_support/callbacks.rb:86:in `run_callbacks'
+  actionpack (4.1.5) lib/abstract_controller/callbacks.rb:19:in `process_action'
+  actionpack (4.1.5) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.1.5) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+  activesupport (4.1.5) lib/active_support/notifications.rb:159:in `block in instrument'
+  activesupport (4.1.5) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.1.5) lib/active_support/notifications.rb:159:in `instrument'
+  actionpack (4.1.5) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.1.5) lib/action_controller/metal/params_wrapper.rb:250:in `process_action'
+  activerecord (4.1.5) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  actionpack (4.1.5) lib/abstract_controller/base.rb:136:in `process'
+  actionview (4.1.5) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.1.5) lib/action_controller/metal.rb:196:in `dispatch'
+  actionpack (4.1.5) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.1.5) lib/action_controller/metal.rb:232:in `block in action'
+  actionpack (4.1.5) lib/action_dispatch/routing/route_set.rb:82:in `call'
+  actionpack (4.1.5) lib/action_dispatch/routing/route_set.rb:82:in `dispatch'
+  actionpack (4.1.5) lib/action_dispatch/routing/route_set.rb:50:in `call'
+  actionpack (4.1.5) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.1.5) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.1.5) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.1.5) lib/action_dispatch/routing/route_set.rb:678:in `call'
+  warden (1.2.3) lib/warden/manager.rb:35:in `block in call'
+  warden (1.2.3) lib/warden/manager.rb:34:in `catch'
+  warden (1.2.3) lib/warden/manager.rb:34:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:35:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.1.5) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.1.5) lib/action_dispatch/middleware/flash.rb:254:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.1.5) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.1.5) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.1.5) lib/active_record/connection_adapters/abstract/connection_pool.rb:621:in `call'
+  activerecord (4.1.5) lib/active_record/migration.rb:380:in `call'
+  actionpack (4.1.5) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.1.5) lib/active_support/callbacks.rb:82:in `run_callbacks'
+  actionpack (4.1.5) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.1.5) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.1.5) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.1.5) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.1.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.5) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.5) lib/rails/engine.rb:514:in `call'
+  railties (4.1.5) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /usr/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /usr/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /usr/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/missing_template.text.erb (0.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+Processing by StaticController#index as HTML
+  Rendered static/index.html.slim within layouts/application (0.0ms)
+Completed 200 OK in 183ms (Views: 182.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.remodal.css?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/jquery.remodal.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/order.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/zepto.min.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-06 19:03:25 +0300
+
+
+Started POST "/order/new" for 127.0.0.1 at 2015-02-06 19:03:30 +0300
+Processing by OrderController#new as */*
+  Parameters: {"name"=>"jgr", "phone"=>"gjhgf", "text"=>"gjhg"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (3.5ms)[0m  [1mINSERT INTO "orders" ("created_at", "name", "phone", "text", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["created_at", "2015-02-06 16:03:30.949435"], ["name", "jgr"], ["phone", "gjhgf"], ["text", "gjhg"], ["updated_at", "2015-02-06 16:03:30.949435"]]
+  [1m[35m (9.5ms)[0m  commit transaction
+  Rendered text template (0.0ms)
+Completed 200 OK in 91ms (Views: 8.2ms | ActiveRecord: 14.5ms)
+
+
+Started POST "/order/new" for 127.0.0.1 at 2015-02-06 19:04:26 +0300
+Processing by OrderController#new as */*
+  Parameters: {"name"=>"Денис", "phone"=>"47568732", "text"=>"Первая заявка."}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "orders" ("created_at", "name", "phone", "text", "updated_at") VALUES (?, ?, ?, ?, ?)  [["created_at", "2015-02-06 16:04:26.350151"], ["name", "Денис"], ["phone", "47568732"], ["text", "Первая заявка."], ["updated_at", "2015-02-06 16:04:26.350151"]]
+  [1m[36m (9.6ms)[0m  [1mcommit transaction[0m
+  Rendered text template (0.0ms)
+Completed 200 OK in 13ms (Views: 0.8ms | ActiveRecord: 9.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-06 19:06:31 +0300
+Processing by StaticController#index as HTML
+  Rendered static/index.html.slim within layouts/application (0.1ms)
+Completed 200 OK in 220ms (Views: 219.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.remodal.css?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/order.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/jquery.remodal.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/zepto.min.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-06 19:06:32 +0300
+
+
+Started POST "/order/new" for 127.0.0.1 at 2015-02-06 19:06:36 +0300
+Processing by OrderController#new as */*
+  Parameters: {"name"=>"", "phone"=>"", "text"=>""}
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "orders" ("created_at", "name", "phone", "text", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["created_at", "2015-02-06 16:06:36.095190"], ["name", ""], ["phone", ""], ["text", ""], ["updated_at", "2015-02-06 16:06:36.095190"]]
+  [1m[35m (9.4ms)[0m  commit transaction
+  Rendered text template (0.0ms)
+Completed 200 OK in 15ms (Views: 0.5ms | ActiveRecord: 9.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-06 19:10:03 +0300
+Processing by StaticController#index as HTML
+  Rendered static/index.html.slim within layouts/application (0.1ms)
+Completed 200 OK in 257ms (Views: 256.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.remodal.css?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/jquery.remodal.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/zepto.min.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/order.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:04 +0300
+
+
+Started POST "/order/new" for 127.0.0.1 at 2015-02-06 19:10:10 +0300
+Processing by OrderController#new as */*
+  Parameters: {"name"=>"жварп", "phone"=>"поарвл", "text"=>"лраывопрж"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "orders" ("created_at", "name", "phone", "text", "updated_at") VALUES (?, ?, ?, ?, ?)  [["created_at", "2015-02-06 16:10:10.663506"], ["name", "жварп"], ["phone", "поарвл"], ["text", "лраывопрж"], ["updated_at", "2015-02-06 16:10:10.663506"]]
+  [1m[36m (7.3ms)[0m  [1mcommit transaction[0m
+  Rendered text template (0.0ms)
+Completed 200 OK in 11ms (Views: 0.7ms | ActiveRecord: 7.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-06 19:10:22 +0300
+Processing by StaticController#index as HTML
+  Rendered static/index.html.slim within layouts/application (0.6ms)
+Completed 200 OK in 194ms (Views: 193.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.remodal.css?body=1" for 127.0.0.1 at 2015-02-06 19:10:22 +0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-06 19:10:22 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:22 +0300
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:22 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:22 +0300
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-02-06 19:10:22 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:22 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:22 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:22 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:22 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:22 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:22 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:22 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:22 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:22 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:22 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:22 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:22 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:23 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:23 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:23 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:23 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:23 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:23 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:23 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:23 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:23 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:23 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:23 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:23 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:23 +0300
+
+
+Started GET "/assets/jquery.remodal.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:23 +0300
+
+
+Started GET "/assets/order.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:23 +0300
+
+
+Started GET "/assets/static.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:23 +0300
+
+
+Started GET "/assets/zepto.min.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:23 +0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:23 +0300
+
+
+Started GET "/admin" for 127.0.0.1 at 2015-02-06 19:10:26 +0300
+Processing by Admin::DashboardController#index as HTML
+Completed 401 Unauthorized in 8ms
+
+
+Started GET "/admin/login" for 127.0.0.1 at 2015-02-06 19:10:26 +0300
+Processing by ActiveAdmin::Devise::SessionsController#new as HTML
+  Rendered /home/alzater/.bundler/ruby/1.9.1/activeadmin-76f194ebe333/app/views/active_admin/devise/shared/_links.erb (3.7ms)
+  Rendered /home/alzater/.bundler/ruby/1.9.1/activeadmin-76f194ebe333/app/views/active_admin/devise/sessions/new.html.erb within layouts/active_admin_logged_out (124.0ms)
+Completed 200 OK in 294ms (Views: 276.8ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/active_admin/print.css?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:27 +0300
+
+
+Started POST "/admin/login" for 127.0.0.1 at 2015-02-06 19:10:31 +0300
+Processing by ActiveAdmin::Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"zUDMzJmYtFbkg5Nu9GVYbiStk8K9pcyoQpqYKsrNshU=", "admin_user"=>{"email"=>"admin@example.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Login"}
+  [1m[35mAdminUser Load (0.2ms)[0m  SELECT  "admin_users".* FROM "admin_users"  WHERE "admin_users"."email" = 'admin@example.com'  ORDER BY "admin_users"."id" ASC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "admin_users" SET "current_sign_in_at" = ?, "sign_in_count" = ?, "updated_at" = ? WHERE "admin_users"."id" = 1  [["current_sign_in_at", "2015-02-06 16:10:31.636754"], ["sign_in_count", 2], ["updated_at", "2015-02-06 16:10:31.637875"]]
+  [1m[36m (9.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/admin
+Completed 302 Found in 134ms (ActiveRecord: 9.5ms)
+
+
+Started GET "/admin" for 127.0.0.1 at 2015-02-06 19:10:31 +0300
+Processing by Admin::DashboardController#index as HTML
+  [1m[35mAdminUser Load (0.2ms)[0m  SELECT  "admin_users".* FROM "admin_users"  WHERE "admin_users"."id" = 1  ORDER BY "admin_users"."id" ASC LIMIT 1
+  Rendered /home/alzater/.bundler/ruby/1.9.1/activeadmin-76f194ebe333/app/views/active_admin/page/index.html.arb (141.3ms)
+Completed 200 OK in 184ms (Views: 143.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2015-02-06 19:10:31 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:31 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:31 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:31 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:32 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:32 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:32 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:32 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:32 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:32 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:32 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:32 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:32 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:32 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:32 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:32 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:32 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:32 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:32 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:32 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:32 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:32 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:32 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:32 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:32 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:32 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:32 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:32 +0300
+
+
+Started GET "/assets/active_admin/print.css?body=1" for 127.0.0.1 at 2015-02-06 19:10:32 +0300
+
+
+Started GET "/admin/admin_users" for 127.0.0.1 at 2015-02-06 19:10:33 +0300
+Processing by Admin::AdminUsersController#index as HTML
+  [1m[36mAdminUser Load (0.2ms)[0m  [1mSELECT  "admin_users".* FROM "admin_users"  WHERE "admin_users"."id" = 1  ORDER BY "admin_users"."id" ASC LIMIT 1[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(count_column) FROM (SELECT  1 AS count_column FROM "admin_users"  LIMIT 30 OFFSET 0) subquery_for_count
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(count_column) FROM (SELECT  1 AS count_column FROM "admin_users"  LIMIT 30 OFFSET 0) subquery_for_count[0m
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "admin_users"
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(count_column) FROM (SELECT  1 AS count_column FROM "admin_users"  LIMIT 30 OFFSET 0) subquery_for_count[0m
+  [1m[35mAdminUser Load (0.6ms)[0m  SELECT  "admin_users".* FROM "admin_users"   ORDER BY "admin_users"."id" desc LIMIT 30 OFFSET 0
+  Rendered /home/alzater/.bundler/ruby/1.9.1/activeadmin-76f194ebe333/app/views/active_admin/resource/index.html.arb (220.4ms)
+Completed 200 OK in 265ms (Views: 222.4ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2015-02-06 19:10:33 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:33 +0300
+
+
+Started GET "/assets/active_admin/print.css?body=1" for 127.0.0.1 at 2015-02-06 19:10:33 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:33 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:33 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:34 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:34 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:34 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:34 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:34 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:34 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:34 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:34 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:34 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:34 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:34 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:34 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:34 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:34 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:34 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:34 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:34 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:34 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:34 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:34 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:34 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:34 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:34 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:34 +0300
+
+
+Started GET "/assets/active_admin/orderable.png" for 127.0.0.1 at 2015-02-06 19:10:34 +0300
+
+
+Started GET "/assets/active_admin/datepicker/datepicker-input-icon.png" for 127.0.0.1 at 2015-02-06 19:10:34 +0300
+
+
+Started GET "/admin/comments" for 127.0.0.1 at 2015-02-06 19:10:34 +0300
+Processing by Admin::CommentsController#index as HTML
+  [1m[36mAdminUser Load (0.2ms)[0m  [1mSELECT  "admin_users".* FROM "admin_users"  WHERE "admin_users"."id" = 1  ORDER BY "admin_users"."id" ASC LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "active_admin_comments"  WHERE "active_admin_comments"."namespace" = 'admin'
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(count_column) FROM (SELECT  1 AS count_column FROM "active_admin_comments"  WHERE "active_admin_comments"."namespace" = 'admin' LIMIT 30 OFFSET 0) subquery_for_count[0m
+  [1m[35m (0.1ms)[0m  SELECT DISTINCT "active_admin_comments"."resource_type" FROM "active_admin_comments"   ORDER BY resource_type asc
+  [1m[36m (0.2ms)[0m  [1mSELECT DISTINCT "active_admin_comments"."author_type" FROM "active_admin_comments"   ORDER BY author_type asc[0m
+  Rendered /home/alzater/.bundler/ruby/1.9.1/activeadmin-76f194ebe333/app/views/active_admin/resource/index.html.arb (216.9ms)
+Completed 200 OK in 222ms (Views: 218.5ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/active_admin/print.css?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:35 +0300
+
+
+Started GET "/admin/orders" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+Processing by Admin::OrdersController#index as HTML
+  [1m[35mAdminUser Load (0.2ms)[0m  SELECT  "admin_users".* FROM "admin_users"  WHERE "admin_users"."id" = 1  ORDER BY "admin_users"."id" ASC LIMIT 1
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(count_column) FROM (SELECT  1 AS count_column FROM "orders"  LIMIT 30 OFFSET 0) subquery_for_count[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(count_column) FROM (SELECT  1 AS count_column FROM "orders"  LIMIT 30 OFFSET 0) subquery_for_count
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "orders"[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(count_column) FROM (SELECT  1 AS count_column FROM "orders"  LIMIT 30 OFFSET 0) subquery_for_count
+  [1m[36mOrder Load (0.1ms)[0m  [1mSELECT  "orders".* FROM "orders"   ORDER BY "orders"."id" desc LIMIT 30 OFFSET 0[0m
+  Rendered /home/alzater/.bundler/ruby/1.9.1/activeadmin-76f194ebe333/app/views/active_admin/resource/index.html.arb (197.3ms)
+Completed 200 OK in 202ms (Views: 199.0ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+
+
+Started GET "/assets/active_admin/print.css?body=1" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:36 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:37 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:37 +0300
+
+
+Started GET "/admin/orders?order=new_desc" for 127.0.0.1 at 2015-02-06 19:10:43 +0300
+Processing by Admin::OrdersController#index as HTML
+  Parameters: {"order"=>"new_desc"}
+  [1m[35mAdminUser Load (0.3ms)[0m  SELECT  "admin_users".* FROM "admin_users"  WHERE "admin_users"."id" = 1  ORDER BY "admin_users"."id" ASC LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(count_column) FROM (SELECT  1 AS count_column FROM "orders"  LIMIT 30 OFFSET 0) subquery_for_count[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(count_column) FROM (SELECT  1 AS count_column FROM "orders"  LIMIT 30 OFFSET 0) subquery_for_count
+  [1m[36m (0.3ms)[0m  [1mSELECT COUNT(*) FROM "orders"[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(count_column) FROM (SELECT  1 AS count_column FROM "orders"  LIMIT 30 OFFSET 0) subquery_for_count
+  [1m[36mOrder Load (0.2ms)[0m  [1mSELECT  "orders".* FROM "orders"   ORDER BY "orders"."new" desc LIMIT 30 OFFSET 0[0m
+  Rendered /home/alzater/.bundler/ruby/1.9.1/activeadmin-76f194ebe333/app/views/active_admin/resource/index.html.arb (186.6ms)
+Completed 200 OK in 192ms (Views: 188.0ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/active_admin/print.css?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:44 +0300
+
+
+Started GET "/admin/orders/1" for 127.0.0.1 at 2015-02-06 19:10:47 +0300
+Processing by Admin::OrdersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mAdminUser Load (0.2ms)[0m  SELECT  "admin_users".* FROM "admin_users"  WHERE "admin_users"."id" = 1  ORDER BY "admin_users"."id" ASC LIMIT 1
+  [1m[36mOrder Load (0.1ms)[0m  [1mSELECT  "orders".* FROM "orders"  WHERE "orders"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "active_admin_comments"  WHERE "active_admin_comments"."resource_type" = 'Order' AND "active_admin_comments"."resource_id" = '1' AND "active_admin_comments"."namespace" = 'admin'
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "active_admin_comments"  WHERE "active_admin_comments"."resource_type" = 'Order' AND "active_admin_comments"."resource_id" = '1' AND "active_admin_comments"."namespace" = 'admin'[0m
+  Rendered /home/alzater/.bundler/ruby/1.9.1/activeadmin-76f194ebe333/app/views/active_admin/resource/show.html.arb (177.1ms)
+Completed 200 OK in 182ms (Views: 179.3ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2015-02-06 19:10:47 +0300
+
+
+Started GET "/assets/active_admin/print.css?body=1" for 127.0.0.1 at 2015-02-06 19:10:47 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:47 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:47 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:47 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:47 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:47 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:47 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:47 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:47 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:47 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:47 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:47 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:47 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:47 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:47 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:47 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:48 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:48 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:48 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:48 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:48 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:48 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:48 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:48 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:48 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:48 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:48 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:48 +0300
+
+
+Started GET "/admin/orders/1/edit" for 127.0.0.1 at 2015-02-06 19:10:50 +0300
+Processing by Admin::OrdersController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mAdminUser Load (0.3ms)[0m  SELECT  "admin_users".* FROM "admin_users"  WHERE "admin_users"."id" = 1  ORDER BY "admin_users"."id" ASC LIMIT 1
+  [1m[36mOrder Load (0.3ms)[0m  [1mSELECT  "orders".* FROM "orders"  WHERE "orders"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mOrder Load (0.2ms)[0m  SELECT  "orders".* FROM "orders"  WHERE "orders"."id" = 1 LIMIT 1
+  Rendered /home/alzater/.bundler/ruby/1.9.1/activeadmin-76f194ebe333/app/views/active_admin/resource/edit.html.arb (189.6ms)
+Completed 200 OK in 198ms (Views: 193.0ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2015-02-06 19:10:50 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:50 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:50 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:50 +0300
+
+
+Started GET "/assets/active_admin/print.css?body=1" for 127.0.0.1 at 2015-02-06 19:10:50 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:50 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:50 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:50 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:50 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:50 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:50 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:51 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:51 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:51 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:51 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:51 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:51 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:51 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:51 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:51 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:51 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:51 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:51 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:51 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:51 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:51 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:51 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:51 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:51 +0300
+
+
+Started PATCH "/admin/orders/1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+Processing by Admin::OrdersController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CSnwdVY6SGL4QBPWbuE13iQoEvbfMfh8EMYnOhIVAeA=", "order"=>{"name"=>"sfhfds", "phone"=>"dsfgs", "text"=>"sdfgsdgf", "new"=>"0", "comment"=>"dsfg"}, "commit"=>"Update Order", "id"=>"1"}
+  [1m[36mAdminUser Load (0.3ms)[0m  [1mSELECT  "admin_users".* FROM "admin_users"  WHERE "admin_users"."id" = 1  ORDER BY "admin_users"."id" ASC LIMIT 1[0m
+  [1m[35mOrder Load (0.1ms)[0m  SELECT  "orders".* FROM "orders"  WHERE "orders"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "orders" SET "new" = ?, "updated_at" = ? WHERE "orders"."id" = 1  [["new", "f"], ["updated_at", "2015-02-06 16:10:54.411157"]]
+  [1m[36m (9.3ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/admin/orders/1
+Completed 302 Found in 23ms (ActiveRecord: 9.9ms)
+
+
+Started GET "/admin/orders/1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+Processing by Admin::OrdersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mAdminUser Load (0.4ms)[0m  SELECT  "admin_users".* FROM "admin_users"  WHERE "admin_users"."id" = 1  ORDER BY "admin_users"."id" ASC LIMIT 1
+  [1m[36mOrder Load (0.1ms)[0m  [1mSELECT  "orders".* FROM "orders"  WHERE "orders"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "active_admin_comments"  WHERE "active_admin_comments"."resource_type" = 'Order' AND "active_admin_comments"."resource_id" = '1' AND "active_admin_comments"."namespace" = 'admin'
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "active_admin_comments"  WHERE "active_admin_comments"."resource_type" = 'Order' AND "active_admin_comments"."resource_id" = '1' AND "active_admin_comments"."namespace" = 'admin'[0m
+  Rendered /home/alzater/.bundler/ruby/1.9.1/activeadmin-76f194ebe333/app/views/active_admin/resource/show.html.arb (118.5ms)
+Completed 200 OK in 126ms (Views: 121.6ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/active_admin/print.css?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:54 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:55 +0300
+
+
+Started GET "/admin/orders" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+Processing by Admin::OrdersController#index as HTML
+  [1m[35mAdminUser Load (0.5ms)[0m  SELECT  "admin_users".* FROM "admin_users"  WHERE "admin_users"."id" = 1  ORDER BY "admin_users"."id" ASC LIMIT 1
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(count_column) FROM (SELECT  1 AS count_column FROM "orders"  LIMIT 30 OFFSET 0) subquery_for_count[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(count_column) FROM (SELECT  1 AS count_column FROM "orders"  LIMIT 30 OFFSET 0) subquery_for_count
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "orders"[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(count_column) FROM (SELECT  1 AS count_column FROM "orders"  LIMIT 30 OFFSET 0) subquery_for_count
+  [1m[36mOrder Load (0.1ms)[0m  [1mSELECT  "orders".* FROM "orders"   ORDER BY "orders"."id" desc LIMIT 30 OFFSET 0[0m
+  Rendered /home/alzater/.bundler/ruby/1.9.1/activeadmin-76f194ebe333/app/views/active_admin/resource/index.html.arb (187.1ms)
+Completed 200 OK in 195ms (Views: 189.7ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/active_admin/print.css?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 19:10:57 +0300
+
+
+Started GET "/admin/orders/4" for 127.0.0.1 at 2015-02-06 19:11:13 +0300
+Processing by Admin::OrdersController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[35mAdminUser Load (0.2ms)[0m  SELECT  "admin_users".* FROM "admin_users"  WHERE "admin_users"."id" = 1  ORDER BY "admin_users"."id" ASC LIMIT 1
+  [1m[36mOrder Load (0.1ms)[0m  [1mSELECT  "orders".* FROM "orders"  WHERE "orders"."id" = ? LIMIT 1[0m  [["id", 4]]
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "active_admin_comments"  WHERE "active_admin_comments"."resource_type" = 'Order' AND "active_admin_comments"."resource_id" = '4' AND "active_admin_comments"."namespace" = 'admin'
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "active_admin_comments"  WHERE "active_admin_comments"."resource_type" = 'Order' AND "active_admin_comments"."resource_id" = '4' AND "active_admin_comments"."namespace" = 'admin'[0m
+  Rendered /home/alzater/.bundler/ruby/1.9.1/activeadmin-76f194ebe333/app/views/active_admin/resource/show.html.arb (158.8ms)
+Completed 200 OK in 163ms (Views: 160.6ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/active_admin/print.css?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:14 +0300
+
+
+Started GET "/admin/orders/4/edit" for 127.0.0.1 at 2015-02-06 19:11:16 +0300
+Processing by Admin::OrdersController#edit as HTML
+  Parameters: {"id"=>"4"}
+  [1m[35mAdminUser Load (0.2ms)[0m  SELECT  "admin_users".* FROM "admin_users"  WHERE "admin_users"."id" = 1  ORDER BY "admin_users"."id" ASC LIMIT 1
+  [1m[36mOrder Load (0.1ms)[0m  [1mSELECT  "orders".* FROM "orders"  WHERE "orders"."id" = ? LIMIT 1[0m  [["id", 4]]
+  [1m[35mOrder Load (0.2ms)[0m  SELECT  "orders".* FROM "orders"  WHERE "orders"."id" = 4 LIMIT 1
+  Rendered /home/alzater/.bundler/ruby/1.9.1/activeadmin-76f194ebe333/app/views/active_admin/resource/edit.html.arb (120.3ms)
+Completed 200 OK in 125ms (Views: 122.4ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/active_admin/print.css?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:17 +0300
+
+
+Started PATCH "/admin/orders/4" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+Processing by Admin::OrdersController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CSnwdVY6SGL4QBPWbuE13iQoEvbfMfh8EMYnOhIVAeA=", "order"=>{"name"=>"", "phone"=>"", "text"=>"", "new"=>"0", "comment"=>""}, "commit"=>"Update Order", "id"=>"4"}
+  [1m[36mAdminUser Load (0.2ms)[0m  [1mSELECT  "admin_users".* FROM "admin_users"  WHERE "admin_users"."id" = 1  ORDER BY "admin_users"."id" ASC LIMIT 1[0m
+  [1m[35mOrder Load (0.1ms)[0m  SELECT  "orders".* FROM "orders"  WHERE "orders"."id" = ? LIMIT 1  [["id", 4]]
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE "orders" SET "comment" = ?, "new" = ?, "updated_at" = ? WHERE "orders"."id" = 4  [["comment", ""], ["new", "f"], ["updated_at", "2015-02-06 16:11:20.141522"]]
+  [1m[36m (11.0ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/admin/orders/4
+Completed 302 Found in 28ms (ActiveRecord: 11.6ms)
+
+
+Started GET "/admin/orders/4" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+Processing by Admin::OrdersController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[35mAdminUser Load (0.3ms)[0m  SELECT  "admin_users".* FROM "admin_users"  WHERE "admin_users"."id" = 1  ORDER BY "admin_users"."id" ASC LIMIT 1
+  [1m[36mOrder Load (0.1ms)[0m  [1mSELECT  "orders".* FROM "orders"  WHERE "orders"."id" = ? LIMIT 1[0m  [["id", 4]]
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "active_admin_comments"  WHERE "active_admin_comments"."resource_type" = 'Order' AND "active_admin_comments"."resource_id" = '4' AND "active_admin_comments"."namespace" = 'admin'
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "active_admin_comments"  WHERE "active_admin_comments"."resource_type" = 'Order' AND "active_admin_comments"."resource_id" = '4' AND "active_admin_comments"."namespace" = 'admin'[0m
+  Rendered /home/alzater/.bundler/ruby/1.9.1/activeadmin-76f194ebe333/app/views/active_admin/resource/show.html.arb (157.8ms)
+Completed 200 OK in 164ms (Views: 160.7ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/active_admin/print.css?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:20 +0300
+
+
+Started GET "/admin/orders" for 127.0.0.1 at 2015-02-06 19:11:22 +0300
+Processing by Admin::OrdersController#index as HTML
+  [1m[35mAdminUser Load (0.3ms)[0m  SELECT  "admin_users".* FROM "admin_users"  WHERE "admin_users"."id" = 1  ORDER BY "admin_users"."id" ASC LIMIT 1
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(count_column) FROM (SELECT  1 AS count_column FROM "orders"  LIMIT 30 OFFSET 0) subquery_for_count[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(count_column) FROM (SELECT  1 AS count_column FROM "orders"  LIMIT 30 OFFSET 0) subquery_for_count
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "orders"[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(count_column) FROM (SELECT  1 AS count_column FROM "orders"  LIMIT 30 OFFSET 0) subquery_for_count
+  [1m[36mOrder Load (0.1ms)[0m  [1mSELECT  "orders".* FROM "orders"   ORDER BY "orders"."id" desc LIMIT 30 OFFSET 0[0m
+  Rendered /home/alzater/.bundler/ruby/1.9.1/activeadmin-76f194ebe333/app/views/active_admin/resource/index.html.arb (180.7ms)
+Completed 200 OK in 187ms (Views: 183.4ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2015-02-06 19:11:22 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started GET "/assets/active_admin/print.css?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:23 +0300
+
+
+Started DELETE "/admin/orders/4" for 127.0.0.1 at 2015-02-06 19:11:38 +0300
+Processing by Admin::OrdersController#destroy as HTML
+  Parameters: {"authenticity_token"=>"CSnwdVY6SGL4QBPWbuE13iQoEvbfMfh8EMYnOhIVAeA=", "id"=>"4"}
+  [1m[35mAdminUser Load (0.3ms)[0m  SELECT  "admin_users".* FROM "admin_users"  WHERE "admin_users"."id" = 1  ORDER BY "admin_users"."id" ASC LIMIT 1
+  [1m[36mOrder Load (0.2ms)[0m  [1mSELECT  "orders".* FROM "orders"  WHERE "orders"."id" = ? LIMIT 1[0m  [["id", 4]]
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36mSQL (0.4ms)[0m  [1mDELETE FROM "orders" WHERE "orders"."id" = ?[0m  [["id", 4]]
+  [1m[35m (9.3ms)[0m  commit transaction
+Redirected to http://localhost:3000/admin/orders
+Completed 302 Found in 31ms (ActiveRecord: 10.3ms)
+
+
+Started GET "/admin/orders" for 127.0.0.1 at 2015-02-06 19:11:38 +0300
+Processing by Admin::OrdersController#index as HTML
+  [1m[36mAdminUser Load (0.4ms)[0m  [1mSELECT  "admin_users".* FROM "admin_users"  WHERE "admin_users"."id" = 1  ORDER BY "admin_users"."id" ASC LIMIT 1[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(count_column) FROM (SELECT  1 AS count_column FROM "orders"  LIMIT 30 OFFSET 0) subquery_for_count
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(count_column) FROM (SELECT  1 AS count_column FROM "orders"  LIMIT 30 OFFSET 0) subquery_for_count[0m
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "orders"
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(count_column) FROM (SELECT  1 AS count_column FROM "orders"  LIMIT 30 OFFSET 0) subquery_for_count[0m
+  [1m[35mOrder Load (0.1ms)[0m  SELECT  "orders".* FROM "orders"   ORDER BY "orders"."id" desc LIMIT 30 OFFSET 0
+  Rendered /home/alzater/.bundler/ruby/1.9.1/activeadmin-76f194ebe333/app/views/active_admin/resource/index.html.arb (197.5ms)
+Completed 200 OK in 204ms (Views: 199.8ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2015-02-06 19:11:38 +0300
+
+
+Started GET "/assets/jquery-ui/core.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:38 +0300
+
+
+Started GET "/assets/active_admin/print.css?body=1" for 127.0.0.1 at 2015-02-06 19:11:38 +0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:38 +0300
+
+
+Started GET "/assets/jquery-ui/widget.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:38 +0300
+
+
+Started GET "/assets/jquery-ui/button.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:38 +0300
+
+
+Started GET "/assets/jquery-ui/datepicker.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:38 +0300
+
+
+Started GET "/assets/jquery-ui/mouse.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:38 +0300
+
+
+Started GET "/assets/jquery-ui/draggable.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:38 +0300
+
+
+Started GET "/assets/jquery-ui/position.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:38 +0300
+
+
+Started GET "/assets/jquery-ui/resizable.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:38 +0300
+
+
+Started GET "/assets/jquery-ui/dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:38 +0300
+
+
+Started GET "/assets/jquery-ui/sortable.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:38 +0300
+
+
+Started GET "/assets/jquery-ui/tabs.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:38 +0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:38 +0300
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:38 +0300
+
+
+Started GET "/assets/active_admin/lib/checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:38 +0300
+
+
+Started GET "/assets/active_admin/lib/batch_actions.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:39 +0300
+
+
+Started GET "/assets/active_admin/lib/dropdown-menu.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:39 +0300
+
+
+Started GET "/assets/active_admin/lib/flash.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:39 +0300
+
+
+Started GET "/assets/active_admin/lib/has_many.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:39 +0300
+
+
+Started GET "/assets/active_admin/lib/modal_dialog.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:39 +0300
+
+
+Started GET "/assets/active_admin/lib/per_page.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:39 +0300
+
+
+Started GET "/assets/active_admin/lib/popover.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:39 +0300
+
+
+Started GET "/assets/active_admin/lib/table-checkbox-toggler.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:39 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery-ui.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:39 +0300
+
+
+Started GET "/assets/active_admin/ext/jquery.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:39 +0300
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:39 +0300
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2015-02-06 19:11:39 +0300

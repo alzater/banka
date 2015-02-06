@@ -11,7 +11,7 @@ Rails.application.routes.draw do
 	get 'developers' => 'static#developers'
 	get 'info' => 'static#info'
 	get 'photos' => 'static#photogalary'
-	get 'order' => 'order#new'
+	post 'order/new' => 'order#new'
 
 	
 
