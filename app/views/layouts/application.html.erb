@@ -7,21 +7,37 @@
   <%= csrf_meta_tags %>
 </head>
 <body>
-	<div id="header">
-		<div>Медвежий угол</div>
-		<div><%=link_to "Главная", "/" %></div>
-		<div><%=link_to "О нас", "/info" %></div>
-		<div><%=link_to "Контакты", "/contacts" %></div>
-		<div><%=link_to "Фотогалерея", "/photos" %></div>
-		<button onclick="show_order_form();">Заказать</button>
+	<div id="transback">
+		<div id="wrapper">
+			<div id="header">
+				<div id="bear">
+					<img src="images/design/bear.png">
+				</div>
+				<div class="container-fluid bpanel">
+					<div class="container-fluid inbpanel">
+						<div class="menuitem" ><%=link_to "Главная", "/" %></div>
+						<div class="menuitem"><%=link_to "О нас", "/info" %></div>
+						<div class="menuitem"><%=link_to "Контакты", "/contacts" %></div>
+						<div class="menuitem"><%=link_to "Фотогалерея", "/photos" %></div>
+						<button class="menuitem" onclick="show_order_form();">Заказать</button>
+					</div>
+				</div>
+			</div>
+			<div id="content">
+				<%= yield %>
+			</div>
+			<div id="footer">
+				&copy; 2015 "Медвежий угол", <%= link_to "Разработчики", "/developers" %> <br />
+				Полное или частичное копирование материалов сайта запрещено.
+			</div>
+
+		</div>
 	</div>
-	<div id="content">
-		<%= yield %>
+	
+	<div id="blabel">
+		<img src="images/design/label.png">
 	</div>
-	<div id="footer">
-		&copy; 2015 "Медвежий угол", <%= link_to "Разработчики", "/developers" %> <br />
-		Полное или частичное копирование материалов сайта запрещено.
-	</div>
+	
 	<div data-remodal-id="order">
 		<div class="form-group">
 			<label>Ваше имя:</label>
@@ -41,6 +57,9 @@
 		<button type="button" class="btn btn-info" onclick="send_order();">Отправить</button>
 		<p id="order_result" class="bg-info"></p>
 	</div>
+	
+	
+	
 	<script>
 		inst = $('[data-remodal-id=order]').remodal();
 	</script>

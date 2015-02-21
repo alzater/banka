@@ -15,10 +15,11 @@
  *= require_self
  */
  
+ 
+@import "http://webfonts.ru/import/stalinist.css";
+ 
 #header{
 	width:100%;
-	height:200px;
-	background-color:red;
 }
 
 #content{
@@ -32,8 +33,25 @@
 	text-align:center;
 }
 
+#transback{
+	margin:20px 30px 30px 30px;
+	background:url(/images/design/transback.png) repeat;
+    z-index:-1;
+}
+#wrapper{
+	margin: 5%;
+}
+#blabel{
+	position:absolute;
+	top:0px;
+	right:10%;
+}
+#bear{
+	margin-left:10%;
+}
+
 body{
-	background: url(/images/background.png) repeat;
+	background: url(/images/design/background.jpg) repeat;
 	padding:0;
 	margin:0;
 	border:0;
@@ -45,10 +63,33 @@ body{
 }
 
 .menuitem{
+	font-size: 20px;
+	float:left;
+	font-family: 'Stalinist One';
+	margin: 3px 10px;
+}
+
+.menuitem a{
+	color:black;
 }
 
 .fancybox-custom .fancybox-skin {
 	box-shadow: 0 0 50px #222;
 }
+
+.bpanel{
+	display:block;
+	padding:7px;
+	background: url(/images/design/bpanel.png) repeat;
+}
+.inbpanel{
+	display:block;
+	padding: 1px 5px 1px 5px;
+	background: url(/images/design/inbpanel.png) repeat;
+	vertical-align:middle;
+}
+
+
+	
 
 	
