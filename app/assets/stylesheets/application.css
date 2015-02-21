@@ -21,16 +21,18 @@
 #header{
 	width:100%;
 }
-
-#content{
-	width:100%;
-	background-color:green;
-}
 	
 #footer{
+	height:266px;
 	width:100%;
-	background-color:blue;
 	text-align:center;
+	background:url(/images/design/footerback.png) repeat;
+}
+#infooter{
+	height:266px;
+	width:100%;
+	text-align:center;
+	background:url(/images/design/coals.png) bottom repeat-x;
 }
 
 #transback{
@@ -39,7 +41,7 @@
     z-index:-1;
 }
 #wrapper{
-	margin: 5%;
+	margin: 30px 5% 10px 5%;
 }
 #blabel{
 	position:absolute;
@@ -88,6 +90,17 @@ body{
 	background: url(/images/design/inbpanel.png) repeat;
 	vertical-align:middle;
 }
+.menucontent{
+	margin: 3% 6% 3% 5%;
+}
+.content{
+	margin-right:5%;
+}
+.middleblock{
+	margin-top:5%;
+	margin-bottom:5%;
+}
+	
 
 
 	

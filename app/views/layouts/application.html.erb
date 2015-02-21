@@ -23,12 +23,25 @@
 					</div>
 				</div>
 			</div>
-			<div id="content">
-				<%= yield %>
+			<div class="container-fluid middleblock">
+				<div class="row">
+					<div class="bpanel col-md-3 menucontent">
+						<div class="container-fluid inbpanel">
+							<div class="menuitem" ><%=link_to "Главная", "/" %></div>
+						</div>
+					</div>
+					<div class="bpanel maincontent col-md-7 content">
+						<div class="container-fluid inbpanel">
+							<%= yield %>
+						</div>
+					</div>
+				</div>
 			</div>
 			<div id="footer">
-				&copy; 2015 "Медвежий угол", <%= link_to "Разработчики", "/developers" %> <br />
-				Полное или частичное копирование материалов сайта запрещено.
+				<div id="infooter">
+					&copy; 2015 "Медвежий угол", <%= link_to "Разработчики", "/developers" %> <br />
+					Полное или частичное копирование материалов сайта запрещено.
+				</div>
 			</div>
 
 		</div>
