@@ -9,7 +9,10 @@ Rails.application.routes.draw do
 
 	get 'contacts' => 'static#contacts'
 	get 'developers' => 'static#developers'
-	get 'info' => 'static#info'
+#	get 'info' => 'static#info'
+	get 'news' => 'static#news'
+	get 'prices' => 'static#prices'
+	get 'services' => 'static#services'
 	get 'photos' => 'static#photogalary'
 	post 'order/new' => 'order#new'
 

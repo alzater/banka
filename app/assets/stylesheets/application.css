@@ -64,8 +64,12 @@ body{
 	width:100%;
 }
 
+.main-container{
+        margin-top: 8px;
+}
+
 .menuitem{
-	font-size: 20px;
+	font-size: 18px;
 	float:left;
 	font-family: 'Stalinist One';
 	margin: 3px 10px;
@@ -91,6 +95,7 @@ body{
 	vertical-align:middle;
 }
 .menucontent{
+	height:100%;
 	margin: 3% 6% 3% 5%;
 }
 .content{
@@ -99,6 +104,11 @@ body{
 .middleblock{
 	margin-top:5%;
 	margin-bottom:5%;
+}
+
+#menutd{
+	width:20%;
+	height:100%;
 }
 	
 

@@ -13,37 +13,62 @@
 				<div id="bear">
 					<img src="images/design/bear.png">
 				</div>
-				<div class="container-fluid bpanel">
+				
+				
+			</div>
+      <div class="container-fluid bpanel">
 					<div class="container-fluid inbpanel">
 						<div class="menuitem" ><%=link_to "Главная", "/" %></div>
-						<div class="menuitem"><%=link_to "О нас", "/info" %></div>
 						<div class="menuitem"><%=link_to "Контакты", "/contacts" %></div>
-						<div class="menuitem"><%=link_to "Фотогалерея", "/photos" %></div>
-						<button class="menuitem" onclick="show_order_form();">Заказать</button>
+						<div class="menuitem"><%=link_to "Фото", "/photos" %></div>
+            <div class="menuitem"><%=link_to "Новости", "/news" %></div>
+            <div class="menuitem"><%=link_to "Цены", "/prices" %></div>
+            <div class="menuitem"><%=link_to "Услуги", "/services" %></div>
+						<button class="menuitem btn btn-default" onclick="show_order_form();">Заказать</button>
 					</div>
-				</div>
-			</div>
-			<div class="container-fluid middleblock">
-				<div class="row">
-					<div class="bpanel col-md-3 menucontent">
-						<div class="container-fluid inbpanel">
-							<div class="menuitem" ><%=link_to "Главная", "/" %></div>
-						</div>
-					</div>
-					<div class="bpanel maincontent col-md-7 content">
-						<div class="container-fluid inbpanel">
-							<%= yield %>
-						</div>
-					</div>
-				</div>
-			</div>
+        </div>
+			<!--<div class="container-fluid middleblock">
+				<table>
+					<tr>
+						<td id="menutd">
+							<div class="bpanel menucontent">
+								<div class="container-fluid inbpanel">
+                  <button class="menuitem btn btn-default" onclick="show_order_form();">Заказать</button>
+									<div class="menuitem" ><%=link_to "Главная", "/" %></div>
+                  <div class="menuitem"><%=link_to "Контакты", "/contacts" %></div>
+                  <div class="menuitem"><%=link_to "Фотогалерея", "/photos" %></div>
+                  <div class="menuitem"><%=link_to "Новости", "/news" %></div>
+                  <div class="menuitem"><%=link_to "Цены", "/prices" %></div>
+                  <div class="menuitem"><%=link_to "Услуги", "/services" %></div>
+								</div>
+							</div>
+						
+						
+						</td>
+						<td id="margintd">
+							&nbsp;
+						</td>
+						<td id="content td">
+							<div class="bpanel maincontent content">
+								<div class="container-fluid inbpanel">
+									<= yield %>
+								</div>
+							</div>
+						</td>				
+					</tr>				
+				</table>
+			</div>-->
+      <div class="container-fluid bpanel main-container">
+        <div class="container-fluid inbpanel">
+          <%= yield %>
+        </div>
+      </div>
 			<div id="footer">
 				<div id="infooter">
 					&copy; 2015 "Медвежий угол", <%= link_to "Разработчики", "/developers" %> <br />
 					Полное или частичное копирование материалов сайта запрещено.
 				</div>
 			</div>
-
 		</div>
 	</div>
 	
@@ -61,6 +86,11 @@
 			<label>Ваш телефон:</label>
 			<br />
 			<input class="form-control" id="order_phone" type="text" class="order_input"></input>
+		</div>
+    <div class="form-group">
+			<label>Количество человек:</label>
+			<br />
+			<input class="form-control" id="order_qpersons" type="text" class="order_input"></input>
 		</div>
 		<div class="form-group">
 			<label>Ваше сообщение:</label>

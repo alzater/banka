@@ -2,8 +2,8 @@ class StaticController < ApplicationController
 	def index
 	end
 	
-	def info
-	end
+#	def info
+#	end
 	
 	def contacts
 	end
@@ -13,4 +13,13 @@ class StaticController < ApplicationController
 	
 	def photogalary
 	end
+  
+  def news
+  end
+  
+  def prices
+  end
+  
+  def services
+  end
 end
