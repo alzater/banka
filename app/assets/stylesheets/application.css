@@ -43,13 +43,14 @@
 #wrapper{
 	margin: 30px 5% 10px 5%;
 }
-#blabel{
-	position:absolute;
-	top:0px;
-	right:10%;
+.blabel{
+	position:relative;
+	top:-60px;
+        text-align:center;
 }
-#bear{
-	margin-left:10%;
+
+.bear-right{
+        text-align:right;
 }
 
 body{
