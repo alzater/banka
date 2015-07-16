@@ -74,10 +74,15 @@ body{
 	float:left;
 	font-family: 'Stalinist One';
 	margin: 3px 10px;
+        border: #660000 5px solid;
+        padding:5px;
+        background: url(/images/design/m-label-back.png);
+        color: #440000;
 }
 
 .menuitem a{
 	color:black;
+        vertical-align:middle;
 }
 
 .fancybox-custom .fancybox-skin {
@@ -111,9 +116,46 @@ body{
 	width:20%;
 	height:100%;
 }
-	
 
+.table-frame{
+        width:100%;
+}
+.top-tr-frame{
+        height:29px;
+}
+.bottom-tr-frame{
+        height:30px;
+}
+.top-frame{
+        background: #f6d654 url(/images/design/top-frame.png) repeat-x;
+}
+.top-left-frame{
+        width:34px;
+        background: #f6d654 url(/images/design/top-left-frame.png) no-repeat;
+}
+.top-right-frame{
+        width:35px;
+        background: #f6d654 url(/images/design/top-right-frame.png) no-repeat;
+}
+.left-frame{
+        background: #f6d654 url(/images/design/left-frame.png) repeat-y;
+}
+.right-frame{
+        background: #f6d654 url(/images/design/right-frame.png) repeat-y;
+}
+.bottom-frame{
+        background: #f6d654 url(/images/design/bottom-frame.png) repeat-x;
+}
+.bottom-left-frame{
+        background: #f6d654 url(/images/design/bottom-left-frame.png) no-repeat;
+}
+.bottom-right-frame{
+        background: #f6d654 url(/images/design/bottom-right-frame.png) no-repeat;
+}
+.center-frame{
+        background: #f6d654;
+}
+.pclass{
+  text-indent: 50px;
+}
 
-	
-
-	

@@ -22,48 +22,65 @@
 					<img width="80%" src="images/design/bear-right.png">
 				</div>
 			</div>
-      <div class="container-fluid bpanel">
-					<div class="container-fluid inbpanel">
-						<div class="menuitem" ><%=link_to "Главная", "/" %></div>
-						<div class="menuitem"><%=link_to "Контакты", "/contacts" %></div>
-						<div class="menuitem"><%=link_to "Фото", "/photos" %></div>
-            <div class="menuitem"><%=link_to "Новости", "/news" %></div>
-            <div class="menuitem"><%=link_to "Цены", "/prices" %></div>
-            <div class="menuitem"><%=link_to "Услуги", "/services" %></div>
-						<button class="menuitem btn btn-default" onclick="show_order_form();">Заказать</button>
-					</div>
-        </div>
-			<!--<div class="container-fluid middleblock">
-				<table>
-					<tr>
-						<td id="menutd">
-							<div class="bpanel menucontent">
-								<div class="container-fluid inbpanel">
-                  <button class="menuitem btn btn-default" onclick="show_order_form();">Заказать</button>
-									<div class="menuitem" ><%=link_to "Главная", "/" %></div>
-                  <div class="menuitem"><%=link_to "Контакты", "/contacts" %></div>
-                  <div class="menuitem"><%=link_to "Фотогалерея", "/photos" %></div>
-                  <div class="menuitem"><%=link_to "Новости", "/news" %></div>
-                  <div class="menuitem"><%=link_to "Цены", "/prices" %></div>
-                  <div class="menuitem"><%=link_to "Услуги", "/services" %></div>
-								</div>
-							</div>
-						
-						
-						</td>
-						<td id="margintd">
-							&nbsp;
-						</td>
-						<td id="content td">
-							<div class="bpanel maincontent content">
-								<div class="container-fluid inbpanel">
-									<= yield %>
-								</div>
-							</div>
-						</td>				
-					</tr>				
-				</table>
-			</div>-->
+			
+      <!--<div class="container-fluid">
+        <table class="table-frame">
+          <tr class="top-tr-frame">
+            <td class="top-left-frame">&nbsp;</td>
+            <td class="top-frame">&nbsp;</td>
+            <td class="top-right-frame">&nbsp;</td>
+          </tr>
+          <tr>
+            <td class="left-frame">&nbsp;</td>
+            <td class="center-frame">
+              <div class="container-fluid">
+                <div class="menuitem" ><%=link_to "Главная", "/" %></div>
+                <div class="menuitem"><%=link_to "Контакты", "/contacts" %></div>
+                <div class="menuitem"><%=link_to "Фото", "/photos" %></div>
+                <div class="menuitem"><%=link_to "Цены", "/prices" %></div>
+                <div class="menuitem"><%=link_to "Услуги", "/services" %></div>
+                <button class="btn btn-default menuitem " onclick="show_order_form();">Заказать</button>
+              </div>
+              
+            </td>
+            <td class="right-frame">&nbsp;</td>
+          </tr>
+          <tr>
+            <td class="bottom-left-frame">&nbsp;</td>
+            <td class="botoom-frame">&nbsp;</td>
+            <td class="bottom-right-frame">&nbsp;</td>
+          </tr>          
+        </table>
+      </div>
+      
+      <div class="container-fluid">
+        <table class="table-frame">
+          <tr class="top-tr-frame">
+            <td class="top-left-frame">&nbsp;</td>
+            <td class="top-frame">&nbsp;</td>
+            <td class="top-right-frame">&nbsp;</td>
+          </tr>
+          <tr>
+            <td class="left-frame">&nbsp;</td>
+            <td class="center-frame"><%= yield %></td>
+            <td class="right-frame">&nbsp;</td>
+          </tr>
+          <tr>
+            <td class="bottom-left-frame">&nbsp;</td>
+            <td class="botoom-frame">&nbsp;</td>
+            <td class="bottom-right-frame">&nbsp;</td>
+          </tr>          
+        </table>
+      </div> -->
+      
+      <div class="container-fluid bpanel main-container">
+        <%=link_to "Главная", "/",class: "menuitem" %>
+        <%=link_to "Контакты", "/contacts",class: "menuitem" %>
+        <%=link_to "Фото", "/photos",class: "menuitem" %>
+        <%=link_to "Цены", "/prices",class: "menuitem" %>
+        <%=link_to "Услуги", "/services",class: "menuitem" %>
+        <button class="btn btn-default menuitem " style="float:right" onclick="show_order_form();">Заказать</button>
+      </div>
       <div class="container-fluid bpanel main-container">
         <div class="container-fluid inbpanel">
           <%= yield %>
