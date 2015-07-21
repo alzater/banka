@@ -40,7 +40,7 @@ Rails.application.configure do
       domain:   "banydom.ru",
       authentication:   "plain",
       user_name: "banydom",
-      password:  ENV['MAILERPASS'],
+      password:  Rails.application.secrets.MAILERPASS,
       enable_starttls_auto: true
   }
   # Raises error for missing translations
