@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+  </head>
+  <body>
+    <h1>Поступил новый заказ № <%= @order.id %></h1>
+    <p>Имя отправителя: <%= @order.name %></p>
+    <p>Телефон: <%= @order.phone %></p>
+    <p>Количество человек: <%= @order.qpersons %></p>
+    <p>Комментарии:</p>
+    <p><%= @order.text %></p>
+  </body>
+</html>
