@@ -81,6 +81,9 @@
         <%=link_to "Услуги", "/services",class: "menuitem" %>
         <button class="btn btn-default menuitem " style="float:right" onclick="show_order_form();">Заказать</button>
       </div>
+      <div height="50px" class="container-fluid photobar">
+        &nbsp;
+      </div>
       <div class="container-fluid bpanel main-container">
         <div class="container-fluid inbpanel">
           <%= yield %>
@@ -107,12 +110,17 @@
 			<input class="form-control" id="order_phone" type="text" class="order_input"></input>
 		</div>
     <div class="form-group">
+			<label>Период заказа:</label>
+			<br />
+			<input class="form-control" id="order_period" type="text" class="order_input"></input>
+		</div>
+    <div class="form-group">
 			<label>Количество человек:</label>
 			<br />
 			<input class="form-control" id="order_qpersons" type="text" class="order_input"></input>
 		</div>
 		<div class="form-group">
-			<label>Ваше сообщение:</label>
+			<label>Коментарии:</label>
 			<br />
 			<textarea class="form-control" rows="5" id="order_text"></textarea>
 		</div>

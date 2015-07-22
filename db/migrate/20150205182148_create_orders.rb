@@ -4,6 +4,8 @@ class CreateOrders < ActiveRecord::Migration
       t.string :name, null: false
       t.string :phone, null: false
       t.text :text, null: false
+      t.string :period
+      t.time :time
       t.string :qpersons
       t.boolean :new, default: true
       t.string :comment

@@ -10,7 +10,8 @@ function send_order(){
 			name: $("#order_name").val(),
 			phone: $("#order_phone").val(),
 			text: $("#order_text").val(),
-      qpersons: $('#order_qpersons').val()
+                        period: $("#order_period").val(),
+                        qpersons: $('#order_qpersons').val()
 		},
 		function(data) {
 			$('#order_result').html("Ваша заявка успешно отправлена.");
