@@ -5,6 +5,6 @@ class OrderMailer < ActionMailer::Base
   def new_order(order)
     @order = order
     subject_string = "Новый заказ: № " + order.id.to_s
-    mail(:to => "alzater@mail.ru", :subject => subject_string)
+    mail(:to => "medvejiiugol@yandex.ru", :subject => subject_string)
   end
 end
