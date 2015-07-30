@@ -80,8 +80,8 @@ body{
         color: #440000;
 }
 
-.menuitem a{
-	color:black;
+a.menuitem:hover{
+	color:#220000;
         vertical-align:middle;
 }
 
