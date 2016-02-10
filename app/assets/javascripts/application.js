@@ -13,5 +13,6 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
-//= require jquery.fancybox.pack.js
+//= require jquery.blueimp-gallery.min
+//= require bootstrap-image-gallery.min
 //= require_tree .
