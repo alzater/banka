@@ -42,6 +42,14 @@
 	background:url(/images/design/transback.png) repeat;
     z-index:-1;
 }
+
+.news-heading{
+    background:url(/images/design/background.jpg) repeat;
+    font-size: 20px;
+    padding: 10px;
+    color: #FFDD66;
+}
+
 #wrapper{
 	margin: 30px 5% 10px 5%;
 }
@@ -49,6 +57,14 @@
 	position:relative;
 	top:-60px;
         text-align:center;
+}
+
+.menu-body{
+    font-size: 16px;
+    font-weight: bold;
+    float:left;
+    font-family: 'Arial';
+    color: #440000;
 }
 
 .bear-right{
@@ -72,19 +88,31 @@ body{
 }
 
 .menuitem{
-	font-size: 18px;
-	float:left;
-	font-family: 'Stalinist One';
-	margin: 3px 10px;
-        border: #660000 5px solid;
-        padding:5px;
-        background: url(/images/design/m-label-back.png);
-        color: #440000;
+    font-size: 18px;
+    float:left;
+    font-family: 'Stalinist One';
+    margin: 3px 10px;
+    border: #660000 5px solid;
+    padding:5px;
+    background: url(/images/design/m-label-back.png);
+    color: #440000;
+    width: 100%;
+}
+
+.menuitem a{
+    font-size: 18px;
+    float:left;
+    font-family: 'Stalinist One';
+    color: #440000;
 }
 
 a.menuitem:hover{
-	color:#220000;
-        vertical-align:middle;
+    color:#220000;
+    vertical-align:middle;
+}
+.menuitem a:hover{
+    color:#220000;
+    vertical-align:middle;
 }
 
 .fancybox-custom .fancybox-skin {

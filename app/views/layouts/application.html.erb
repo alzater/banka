@@ -7,80 +7,81 @@
   <%= csrf_meta_tags %>
 </head>
 <body>
-	<div id="transback">
-		<div id="wrapper">
-			<div class="container-fluid">
-				<div class="col-sm-4 bear-left">
-					<img width="80%" src="images/design/bear-left.png">
-				</div>
-        <div class="col-sm-4 blabel">
-          <div class="container-fluid">
-            <img width="100%" src="images/design/label.png">
-          </div>
+<div id="transback">
+  <div id="wrapper">
+    <div class="container-fluid">
+      <div class="col-sm-4 bear-left">
+        <img width="80%" src="images/design/bear-left.png">
+      </div>
+      <div class="col-sm-4 blabel">
+        <div class="container-fluid">
+          <img width="100%" src="images/design/label.png">
         </div>
-        <div class="col-sm-4 block bear-right">
-					<img width="80%" src="images/design/bear-right.png">
-				</div>
-			</div>      
-      <div class="container-fluid bpanel main-container">
-        <%=link_to "Главная", "/",class: "menuitem" %>
-        <%=link_to "Контакты", "/contacts",class: "menuitem" %>
+      </div>
+      <div class="col-sm-4 block bear-right">
+        <img width="80%" src="images/design/bear-right.png">
+      </div>
+    </div>      
+    <div height="50px" class="container-fluid photobar">
+      &nbsp;
+    </div>
+    <div class="container-fluid bpanel main-container">
+      <div class="col-sm-3">
+        <button class="btn btn-default menuitem" onclick="show_order_form();">Заказать</button>
+        <%=link_to "Главная", "/",class: "menuitem"%>
         <%=link_to "Фото", "/photos",class: "menuitem" %>
+        <%=link_to "Календарь", "/calendar",class: "menuitem" %>
+        <%=link_to "Контакты", "/contacts",class: "menuitem" %>
         <%=link_to "Цены", "/prices",class: "menuitem" %>
         <%=link_to "Услуги", "/services",class: "menuitem" %>
-        <button class="btn btn-default menuitem " style="float:right" onclick="show_order_form();">Заказать</button>
       </div>
-      <div height="50px" class="container-fluid photobar">
-        &nbsp;
+      <div class="col-sm-9">
+        <%= yield %>
       </div>
-      <div class="container-fluid bpanel main-container">
-        <div class="container-fluid inbpanel">
-          <%= yield %>
-        </div>
+    </div>
+    <div id="footer">
+      <div id="infooter" style="color:#660000">
+        &copy; 2015 "Медвежий угол", <%= link_to "Разработчики", "/developers", style: "color:#440000" %> <br />
+        Полное или частичное копирование материалов сайта запрещено.
       </div>
-			<div id="footer">
-				<div id="infooter" style="color:#660000">
-					&copy; 2015 "Медвежий угол", <%= link_to "Разработчики", "/developers", style: "color:#440000" %> <br />
-					Полное или частичное копирование материалов сайта запрещено.
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<div data-remodal-id="order">
-		<div class="form-group">
-			<label>Ваше имя:</label>
-			<br />
-			<input class="form-control" id="order_name" type="text" class="order_input"></input>
-		</div>
-		<div class="form-group">
-			<label>Ваш телефон:</label>
-			<br />
-			<input class="form-control" id="order_phone" type="text" class="order_input"></input>
-		</div>
-    <div class="form-group">
-			<label>Период заказа:</label>
-			<br />
-			<input class="form-control" id="order_period" type="text" class="order_input"></input>
-		</div>
-    <div class="form-group">
-			<label>Количество человек:</label>
-			<br />
-			<input class="form-control" id="order_qpersons" type="text" class="order_input"></input>
-		</div>
-		<div class="form-group">
-			<label>Коментарии:</label>
-			<br />
-			<textarea class="form-control" rows="5" id="order_text"></textarea>
-		</div>
-		<button type="button" class="btn btn-info" onclick="send_order();">Отправить</button>
-		<p id="order_result" class="bg-info"></p>
-	</div>
-	
-	
-	
-	<script>
-		inst = $('[data-remodal-id=order]').remodal();
-	</script>
+    </div>
+  </div>
+</div>
+
+<div data-remodal-id="order">
+  <div class="form-group">
+    <label>Ваше имя:</label>
+    <br />
+    <input class="form-control" id="order_name" type="text" class="order_input"></input>
+  </div>
+  <div class="form-group">
+    <label>Ваш телефон:</label>
+    <br />
+    <input class="form-control" id="order_phone" type="text" class="order_input"></input>
+  </div>
+  <div class="form-group">
+    <label>Период заказа:</label>
+    <br />
+    <input class="form-control" id="order_period" type="text" class="order_input"></input>
+  </div>
+  <div class="form-group">
+    <label>Количество человек:</label>
+    <br />
+    <input class="form-control" id="order_qpersons" type="text" class="order_input"></input>
+  </div>
+  <div class="form-group">
+    <label>Коментарии:</label>
+    <br />
+    <textarea class="form-control" rows="5" id="order_text"></textarea>
+  </div>
+  <button type="button" class="btn btn-info" onclick="send_order();">Отправить</button>
+  <p id="order_result" class="bg-info"></p>
+</div>
+
+
+
+<script>
+  inst = $('[data-remodal-id=order]').remodal();
+</script>
 </body>
 </html>

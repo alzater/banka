@@ -5,18 +5,19 @@ Rails.application.routes.draw do
   # See how all your routes lay out with "rake routes".
 
   # You can have the root of your site routed with "root"
-	root 'static#index'
+  root 'static#index'
 
-	get 'contacts' => 'static#contacts'
-	get 'developers' => 'static#developers'
-#	get 'info' => 'static#info'
-	get 'news' => 'static#news'
-	get 'prices' => 'static#prices'
-	get 'services' => 'static#services'
-	get 'photos' => 'static#photogalary'
-	post 'order/new' => 'order#new'
+  get 'contacts' => 'static#contacts'
+  get 'developers' => 'static#developers'
+  #	get 'info' => 'static#info'
+  # get 'news' => 'static#news'
+  get 'prices' => 'static#prices'
+  get 'calendar' => 'static#calendar'
+  get 'services' => 'static#services'
+  get 'photos' => 'static#photogalary'
+  post 'order/new' => 'order#new'
 
-	
+
 
   # Example of named route that can be invoked with purchase_url(id: product.id)
   #   get 'products/:id/purchase' => 'catalog#purchase', as: :purchase
