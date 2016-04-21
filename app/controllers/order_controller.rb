@@ -8,7 +8,7 @@ class OrderController < ApplicationController
     order.qpersons = params[:qpersons]
     order.time = Time.now
 		order.save
-    OrderMailer.new_order(order).deliver
+    #OrderMailer.new_order(order).deliver
 		render nothing: true
 	end
 end
