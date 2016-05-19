@@ -25,4 +25,8 @@ class StaticController < ApplicationController
 
   def calendar
   end
+
+  def cam
+    render layout: false
+  end
 end
