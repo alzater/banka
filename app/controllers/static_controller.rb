@@ -29,4 +29,7 @@ class StaticController < ApplicationController
   def cam
     render layout: false
   end
+
+  def url
+  end
 end

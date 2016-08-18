@@ -16,6 +16,7 @@ Rails.application.routes.draw do
   get 'services' => 'static#services'
   get 'photos' => 'static#photogalary'
   get 'cam' => 'static#cam'
+  get 'url' => 'static#url'
   post 'order/new' => 'order#new'
 
 
