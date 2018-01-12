@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+ <head>
+<link rel="manifest" href="https://raw.githubusercontent.com/alzater/banka/master/manifest2.json">
+
+<script src="https://www.gstatic.com/firebasejs/4.8.2/firebase.js"></script>
+<script src="https://www.gstatic.com/firebasejs/4.8.2/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/4.8.2/firebase-messaging.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyDt_157SffcqArTYt3uswZuC4jlPWBEyTs",
+    authDomain: "alzatertest.firebaseapp.com",
+    databaseURL: "https://alzatertest.firebaseio.com",
+    projectId: "alzatertest",
+    storageBucket: "alzatertest.appspot.com",
+    messagingSenderId: "141451312019"
+  };
+  firebase.initializeApp(config);
+
+ var messaging = firebase.messaging();
+
+function subscribe()
+{
+messaging.requestPermission()
+.then(function() {
+  console.log('Notification permission granted.');
+ messaging.getToken()
+  .then(function(currentToken) {
+    if (currentToken) {
+      console.log(currentToken)
+    }
+    else console.log('notoken')
+  })
+  .catch(function(err) {
+    console.log('An error occurred while retrieving token. ', err);
+  });
+})
+.catch(function(err) {
+  console.log('Unable to get permission to notify.', err);
+});
+}
+
+
+
+</script>
+
+
+
+ </head>
+ <body>
+  тестирование пушей
+
+  <button type="button" id="subscribe" onclick="subscribe()">Подписаться</button>
+ </body>
+</html>
